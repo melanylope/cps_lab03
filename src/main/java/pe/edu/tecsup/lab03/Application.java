@@ -1,5 +1,9 @@
 package pe.edu.tecsup.lab03;
 
 public class Application {
-    // TO DO
+
+    public static void main(String[] args) {
+        System.out.println("Laboratorio 03 iniciado con éxito");
+    }
+
 }
